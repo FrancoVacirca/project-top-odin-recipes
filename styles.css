@@ -1,3 +1,19 @@
     body {
         background-color: wheat;
     }
+
+    #locro-li-style {
+        list-style: none;
+    }
+
+    #milanesa-li-style {
+        list-style: none;
+    }
+
+    #empanada-li-style {
+        list-style: none;
+    }
+
+    #chimichurri-li-style {
+        list-style: none;
+    }
