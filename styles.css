@@ -1,5 +1,10 @@
     body {
         background-color: wheat;
+        font-family: 'Courier New';
+    }
+
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
     #locro-li-style {
