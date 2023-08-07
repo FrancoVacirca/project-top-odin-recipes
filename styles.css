@@ -1,3 +1,42 @@
+    html {
+        border: 15px solid #bc8e47;
+    }
+
+    h1 {
+        margin: 5%;
+        border: 5px solid #3c3121;
+        width: 220px;
+        height: 50px;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 5px;
+        background-color: #c58a3e;
+    }
+
+    .title-locro {
+        height: auto;
+        text-align: center;
+        padding-bottom: 11px;
+    }
+
+    .title-milanesa {
+        height: auto;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    .title-empanada {
+        text-align: center;
+        padding-bottom: 30px;
+        padding-left: 5px;
+    }
+
+    .title-chimichurri {
+        text-align: center;
+        padding-left: 5px;
+    }
+    
     body {
         background-color: wheat;
         font-family: 'Courier New';
