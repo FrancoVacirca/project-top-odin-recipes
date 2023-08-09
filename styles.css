@@ -10,16 +10,30 @@
         padding-top: 10px;
         padding-left: 10px;
         padding-right: 5px;
+        margin-left: 500px;
         background-color: #c58a3e;
     }
 
+    .messi-chef {
+        display: block;
+        margin-left: 23%;
+    }
+    
+    .recipes {
+        display: block;
+        margin: 20px;
+        margin-left: 25%;
+    }
+
     .title-locro {
+        margin-left: 10%;
         height: auto;
         text-align: center;
         padding-bottom: 11px;
     }
 
     .title-milanesa {
+        margin-left: 0px;
         height: auto;
         text-align: center;
         padding-left: 0px;
@@ -27,12 +41,14 @@
     }
 
     .title-empanada {
+        margin-left: 10%;
         text-align: center;
         padding-bottom: 30px;
         padding-left: 5px;
     }
 
     .title-chimichurri {
+        margin-left: 10%;
         text-align: center;
         padding-left: 5px;
     }
@@ -60,4 +76,20 @@
 
     #chimichurri-li-style {
         list-style: none;
+    }
+
+    .locro-recipe {
+        margin-left: 10%;
+    }
+
+    .milanesa-recipe {
+        margin-left: 10%;
+    }
+
+    .empanada-recipe {
+        margin-left: 10%;
+    }
+
+    .chimichurri-recipe {
+        margin-left: 10%;
     }
